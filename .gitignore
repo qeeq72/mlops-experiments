@@ -1,6 +1,8 @@
 references.txt
 .env
+.passwd-s3fs
 venv/
 mlflow/data/
 minio/config/
 minio/data/
+minio/fuse/
